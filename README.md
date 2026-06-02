@@ -27,7 +27,7 @@ This project uses two credentialed clinical datasets:
 Both datasets require credentialed access through [PhysioNet](https://physionet.org/). You must complete the required training and data use agreement before downloading.
 
 - eICU: https://physionet.org/content/eicu-crd/2.0/
-- MIMIC-IV: https://physionet.org/content/mimiciv/2.2/
+- MIMIC-IV: https://physionet.org/content/mimiciv/3.1/
 
 ## Model Architecture
 
