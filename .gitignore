@@ -1,0 +1,21 @@
+# data files
+*.csv
+*.parquet
+*.h5
+
+# model weights
+*.pt
+*.pth
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# kaggle
+/kaggle/
+
+# env
+.env
+venv/
