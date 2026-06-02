@@ -1,0 +1,17 @@
+torch==2.5.1
+torchvision
+torchaudio
+torch-geometric
+pyg-lib
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+relbench[full]
+sentence-transformers
+pandas
+numpy
+scikit-learn
+duckdb
+tqdm
+matplotlib
