@@ -55,3 +55,16 @@ pip install -r requirements.txt
 Each task section is self-contained — you can run them independently by executing the setup cells first.
 
 ## Project Structure
+```
+clinical-outcome-prediction-gnn/
+├── notebook/
+│   └── clinical_outcome_prediction.ipynb
+├── results/
+│   ├── aki/
+│   ├── vasopressor/
+│   └── icd/
+├── data/
+│   └── README.md
+├── requirements.txt
+└── .gitignore
+```
