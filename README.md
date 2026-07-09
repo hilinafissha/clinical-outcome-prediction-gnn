@@ -59,10 +59,6 @@ Each task section is self-contained — you can run them independently by execut
 clinical-outcome-prediction-gnn/
 ├── notebook/
 │   └── clinical_outcome_prediction.ipynb
-├── results/
-│   ├── aki/
-│   ├── vasopressor/
-│   └── icd/
 ├── data/
 │   └── README.md
 ├── requirements.txt
