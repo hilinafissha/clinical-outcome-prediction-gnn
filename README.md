@@ -58,9 +58,9 @@ Each task section is self-contained — you can run them independently by execut
 ```
 clinical-outcome-prediction-gnn/
 ├── notebook/
-│   └── clinical_outcome_prediction.ipynb
-├── data/
-│   └── README.md
+│   ├── clinical_outcome_prediction.ipynb
+│   └── .gitkeep
+├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
