@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. Obtain access to eICU and MIMIC-IV from PhysioNet and download the CSV files (decompress the `.csv.gz` archives).
-2. Set `EICU_DIR` and `MIMIC_DIR` in the configuration cell near the top of the notebook to point at your local data folders. These are the only paths that need changing.
+2. **On Kaggle:** attach both datasets to the notebook — the configuration cell detects their paths automatically. **Elsewhere:** set `EICU_DIR` and `MIMIC_DIR` in that cell to your local data folders. These are the only paths that need changing.
 3. Run the notebook end to end: `notebook/clinical_outcome_prediction.ipynb`
 
 Each task section is self-contained — you can run them independently after executing the setup and configuration cells at the top.
